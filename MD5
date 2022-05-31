@@ -1,0 +1,16 @@
+8dfda2cbf0ea84c9aeac0479aa9e2868 *DESCRIPTION
+3179889db232e26184946c0abad758fd *LICENSE
+df390c53434517b304ac5db487184641 *NAMESPACE
+6af292763c0bab2e98858854516eff9f *R/ExplodeLayoutBasic.R
+07cc9651b607425bf0398bcad538a743 *R/data.R
+48c6a24d298964684462d159fad0406f *README.md
+71bce967ad07bf8883f994ce27c02484 *data/example_incidmat.rda
+c24309e921713198b71a76b3e0b7726b *data/example_nodelist.rda
+81f4a6e55117cac5ee5049a3c38b2e66 *man/example_incidmat.Rd
+d7726b20a5e68b67e3df2e6731ef00e1 *man/example_nodelist.Rd
+3c81dbd8c237eac5f8cd80cc3d1f3246 *man/explode_coordinates.Rd
+eb986315ce34a30b18b3625eb2c12cf6 *man/figures/README-example-1.png
+220fad840b9522b33d0fffe2838f4dec *man/get_edgelist_from_incidmat.Rd
+fa3d0da45c7bcd0d61016504eaa480d4 *man/get_explode_nodelist.Rd
+02620727989890452fa3280f1d51b2f9 *man/get_nodelist_for_plotting.Rd
+4b843d689151b4737e28031d601d7306 *man/plot_binet_ggplot2.Rd
